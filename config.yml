@@ -24,9 +24,6 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Our company public facing website
-      link: 'https://www.example.com/'
+      link: 'https://polydev.lethdev2019.repl.co/'
       name: Website
-    - description: Our company customer support site
-      link: 'https://support.example.com/'
-      name: Helpdesk
   timezoneString: ' UTC'
