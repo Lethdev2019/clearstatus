@@ -13,10 +13,10 @@ status: "in_progress"
 # and displayed at top of page or below the header
 # as long as its status is marked as in_progress
 # pinned: (empty) | top | belowheader
-pinned: 
+pinned: top
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
-duration: 5mn
+duration: 
 
 # Max severity: will be displayed when issue is resolved, in the past events section
 # Max_severity: ok | disrupted | down | monitoring | maintenance
@@ -24,14 +24,15 @@ max_severity: down
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: maintainence
+current_severity: down
 
 # Full date: 2019-03-29 17:26:09
 resolved_on:
 
 # Affected components, must use exact names defined in site config
 affected:
-  - Site
+  - Website
+  - Helpdesk
 
 # If set and the status is in_progress, this feed will be embedded
 # in the event display. Leave empty for no Twitter feed.
