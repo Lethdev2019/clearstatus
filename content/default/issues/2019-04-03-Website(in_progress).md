@@ -13,7 +13,7 @@ status: "in_progress"
 # and displayed at top of page or below the header
 # as long as its status is marked as in_progress
 # pinned: (empty) | top | belowheader
-pinned: top
+pinned: belowheader
 
 # Duration for "scheduled" issues: Raw text, ie 5mn, 1h, 1 hour,..
 duration: 
