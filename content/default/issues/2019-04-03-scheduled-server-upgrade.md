@@ -7,7 +7,7 @@ draft: false
 date: 2019-04-12
 
 # Status: "resolved" | "in_progress" | "scheduled"
-status: "scheduled"
+status: "in_progress"
 
 # This message will be taken out of the flow of events
 # and displayed at top of page or below the header
@@ -24,7 +24,7 @@ max_severity: down
 
 # Current severity: used for current issue display
 # current_severity: ok | disrupted | down | monitoring | maintenance
-current_severity: down
+current_severity: maintainence
 
 # Full date: 2019-03-29 17:26:09
 resolved_on:
@@ -73,9 +73,9 @@ section: issue
 ## Enter below issue description and subsequent updates if any
 ---
 
-Our hosting company needs to perform some software updates on our main website server. These updates require restarting the machine which implies some downtime.
+Our Company needs to build our website.
 \
-This maintenance should not last more than a few minutes or cause any other perturbation.
+This maintenance could last a long time.
 \
 Sorry about the trouble!
 \
