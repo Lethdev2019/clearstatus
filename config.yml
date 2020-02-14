@@ -23,11 +23,11 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Our company public facing website
-      group: Poly Group
+      group: Webpage
       link: 'https://polydev.lethdev2019.repl.co/'
       name: Website
     - description: The firebase login API.
-      group: Poly Group
+      group: Webpage
       name: API (firebase.google.com)
     - description: Verifies a available license for the application
       group: License server
