@@ -22,6 +22,10 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Our company public facing website
+      group: Poly Group
       link: 'https://polydev.lethdev2019.repl.co/'
       name: Website
+    - description: The firebase login API.
+      group: Poly Group
+      name: API (firebase.google.com)
   timezoneString: ' UTC'
