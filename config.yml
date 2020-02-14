@@ -15,7 +15,7 @@ params:
   eventsPerPage: 20
   groups:
     - Webpage
-    - License Server
+    - License server
   logo: /images/uploads/logo.png
   meta_description: >-
     This status page provides updated information about our systems normal
@@ -29,4 +29,5 @@ params:
     - description: The firebase login API.
       group: Poly Group
       name: API (firebase.google.com)
+    - name: License for Offline apps
   timezoneString: ' UTC'
