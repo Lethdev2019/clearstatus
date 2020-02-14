@@ -12,7 +12,7 @@ params:
     href='https://Polydev.lethdev2019.repl.co'>example</a><br /> or subscribe to
     <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
     events.
-  disqusShortname: https-monitorpoly-netlify-com.disqus.com
+  disqusShortname: https-monitorpoly-netlify-com
   eventsPerPage: 20
   groups:
     - Poly
