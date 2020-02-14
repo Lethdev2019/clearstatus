@@ -11,7 +11,7 @@ affected:
   - Website
   - License for Offline apps
 twitterFeed: ''
-enableComments: false
+enableComments: true
 ---
 We need to build our website so that everyone can use us.\
 This **may** be down for a while.
