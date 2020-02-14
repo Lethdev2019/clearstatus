@@ -29,5 +29,7 @@ params:
     - description: The firebase login API.
       group: Poly Group
       name: API (firebase.google.com)
-    - name: License for Offline apps
+    - description: Verifies a available license for the application
+      group: License server
+      name: License for Offline apps
   timezoneString: ' UTC'
