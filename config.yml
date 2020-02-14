@@ -1,11 +1,11 @@
 title: Poly Development
 languageCode: en
 params:
-  copyrightHolder: ''
+  copyrightHolder: Poly Development Group
   dateFormat: 'January 2, 2006 at 3:04 PM'
   description_footer: >-
-    <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
+    <a class='text-grey-darkest' title='Visit Polydev'
+    href='https://Polydev.lethdev2019.repl.co'>Polydev</a> provides open-source
     software for all kind of sectors.
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit PolyDev'
