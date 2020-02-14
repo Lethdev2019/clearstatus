@@ -14,7 +14,8 @@ params:
     events.
   eventsPerPage: 20
   groups:
-    - Poly Group
+    - Webpage
+    - License Server
   logo: /images/uploads/logo.png
   meta_description: >-
     This status page provides updated information about our systems normal
