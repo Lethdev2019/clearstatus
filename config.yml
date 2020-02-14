@@ -16,6 +16,7 @@ params:
   eventsPerPage: 20
   groups:
     - Poly
+    - Adcharity
   logo: /images/uploads/logo.png
   meta_description: >-
     This status page provides updated information about our systems normal
