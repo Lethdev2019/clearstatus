@@ -11,6 +11,6 @@ resolved_on: 2020-02-14T13:35:25.247Z
 affected:
   - Website
 twitterFeed: ''
-enableComments: false
+enableComments: true
 ---
-Our tasks will appear later...
+We will re-implement the api with the required pages
