@@ -9,6 +9,7 @@ duration: ''
 resolved_on: ''
 affected:
   - Website
+  - License for Offline apps
 twitterFeed: ''
 enableComments: false
 ---
