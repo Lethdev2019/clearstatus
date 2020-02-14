@@ -14,8 +14,7 @@ params:
     events.
   eventsPerPage: 20
   groups:
-    - Webpage
-    - License server
+    - Poly
   logo: /images/uploads/logo.png
   meta_description: >-
     This status page provides updated information about our systems normal
@@ -23,13 +22,10 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Our company public facing website
-      group: Webpage
       link: 'https://polydev.lethdev2019.repl.co/'
       name: Website
     - description: The firebase login API.
-      group: Webpage
       name: API (firebase.google.com)
     - description: Verifies a available license for the application
-      group: License server
       name: License for Offline apps
   timezoneString: ' UTC'
