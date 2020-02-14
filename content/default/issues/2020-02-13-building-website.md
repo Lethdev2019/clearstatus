@@ -9,7 +9,6 @@ duration: ''
 resolved_on: ''
 affected:
   - Website
-  - Helpdesk
 twitterFeed: ''
 enableComments: false
 ---
