@@ -17,7 +17,7 @@ params:
   eventsPerPage: 20
   groups:
     - Poly Group
-  logo: /images/uploads/logo.png
+  logo: /images/uploads/logo (1).svg
   meta_description: >-
     This status page provides updated information about our systems normal
     operation, incidents that may happen and their resolution.
