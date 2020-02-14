@@ -26,6 +26,6 @@ params:
       name: Website
     - description: The firebase login API.
       name: API (firebase.google.com)
-    - description: Verifies a available license for the application
+    - description: Verifies an available license for the application
       name: License for Offline apps
   timezoneString: ' UTC'
