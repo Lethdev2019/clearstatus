@@ -13,5 +13,6 @@ affected:
 twitterFeed: ''
 enableComments: false
 ---
-We need to build our website so that everyone can use us.\
-This may be down for a while.
+> We need to build our website so that everyone can use us.
+
+This **may** be down for a while.
