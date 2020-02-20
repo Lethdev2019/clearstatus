@@ -13,7 +13,7 @@ params:
     <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
     events.
   disqusShortname: https-monitorpoly-netlify-com
-  eventsPerPage: 20
+  eventsPerPage: 10
   groups:
     - Poly
     - Adcharity
