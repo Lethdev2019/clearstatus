@@ -6,7 +6,7 @@ status: in_progress
 pinned: ''
 current_severity: down
 max_severity: down
-duration: 2d
+duration: 2 days
 resolved_on: 2020-02-25T08:27:33.687Z
 affected:
   - Poly Cloud
