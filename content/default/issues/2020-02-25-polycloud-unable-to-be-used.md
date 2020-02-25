@@ -2,7 +2,7 @@
 section: issue
 title: Poly Cloud unable to be used.
 date: 2020-02-25T08:27:33.664Z
-status: resolved
+status: in_progress
 pinned: ''
 current_severity: monitoring
 max_severity: monitoring
