@@ -30,4 +30,7 @@ params:
       name: API (firebase.google.com)
     - description: Verifies an available license for the application
       name: License for Offline apps
+    - description: 'Poly Cloud is a free, secure cloud storage based off lolisafe.'
+      link: PolyCloud.lethdev2019.repl.co
+      name: Poly Cloud
   timezoneString: ' UTC'
