@@ -1,6 +1,6 @@
 ---
 section: issue
-title: PolyCloud unable to be used.
+title: Poly Cloud unable to be used.
 date: 2020-02-25T08:27:33.664Z
 status: in_progress
 pinned: ''
@@ -13,7 +13,7 @@ affected:
 twitterFeed: ''
 enableComments: true
 ---
-## **Investigating**
+## Investigating
 
 we are investigating the issue where **Poly Cloud** does not load 3rd party assets.
 
