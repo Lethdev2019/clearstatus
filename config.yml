@@ -24,16 +24,13 @@ params:
   shortDateFormat: '15:04 — Jan 2'
   systems:
     - description: Our company public facing website
-      group: Poly
       link: 'https://polydev.lethdev2019.repl.co/'
       name: Website
     - description: The firebase login API.
       name: API (firebase.google.com)
     - description: Verifies an available license for the application
-      group: Poly
       name: License for Offline apps
     - description: 'Poly Cloud is a free, secure cloud storage based off lolisafe.'
-      group: Poly
-      link: 'https://PolyCloud.lethdev2019.repl.co'
+      link: 'https://polycloud.lethdev2019.repl.co'
       name: Poly Cloud
   timezoneString: ' UTC'
