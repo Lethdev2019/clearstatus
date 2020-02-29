@@ -1,36 +1,40 @@
 title: Poly Development
 languageCode: en
 params:
-  copyrightHolder: Poly Development Group
+  shortDateFormat: '15:04 — Jan 2'
+  meta_description: >-
+    This status page provides updated information about our systems normal
+    operation, incidents that may happen and their resolution.
+  systems:
+    - description: Our company public facing website
+      link: 'https://polydev.lethdev2019.repl.co/'
+      name: Website
+      group: Poly
+    - description: The firebase login API.
+      name: API (firebase.google.com)
+      group: Poly
+    - description: Verifies an available license for the application
+      name: License for Offline apps
+      group: Poly
+    - description: 'Poly Cloud is a free, secure cloud storage based off lolisafe.'
+      link: 'https://polycloud.lethdev2019.repl.co'
+      name: Poly Cloud
+      group: Poly
   dateFormat: 'January 2, 2006 at 3:04 PM'
-  description_footer: >-
-    <a class='text-grey-darkest' title='Visit Polydev'
-    href='https://Polydev.lethdev2019.repl.co'>Polydev</a> provides open-source
-    software for all kind of sectors.
+  disqusShortname: https-monitorpoly-netlify-com
+  timezoneString: ' UTC'
+  logo: /images/uploads/logo.png
   description_header: >-
     Information about <a class='text-grey-darkest' title='Visit PolyDev'
     href='https://Polydev.lethdev2019.repl.co'>example</a><br /> or subscribe to
     <a class='text-grey-darkest' href='%s' >RSS</a><br />to be alerted of new
     events.
-  disqusShortname: https-monitorpoly-netlify-com
+  copyrightHolder: Poly Development Group
   eventsPerPage: 10
   groups:
     - Poly
     - Adcharity
-  logo: /images/uploads/logo.png
-  meta_description: >-
-    This status page provides updated information about our systems normal
-    operation, incidents that may happen and their resolution.
-  shortDateFormat: '15:04 — Jan 2'
-  systems:
-    - description: Our company public facing website
-      link: 'https://polydev.lethdev2019.repl.co/'
-      name: Website
-    - description: The firebase login API.
-      name: API (firebase.google.com)
-    - description: Verifies an available license for the application
-      name: License for Offline apps
-    - description: 'Poly Cloud is a free, secure cloud storage based off lolisafe.'
-      link: 'https://polycloud.lethdev2019.repl.co'
-      name: Poly Cloud
-  timezoneString: ' UTC'
+  description_footer: >-
+    <a class='text-grey-darkest' title='Visit Polydev'
+    href='https://Polydev.lethdev2019.repl.co'>Polydev</a> provides open-source
+    software for all kind of sectors.
