@@ -9,17 +9,17 @@ params:
     - description: Our company public facing website
       link: 'https://polydev.lethdev2019.repl.co/'
       name: Website
-      group: Poly
     - description: The firebase login API.
       name: API (firebase.google.com)
-      group: Poly
     - description: Verifies an available license for the application
       name: License for Offline apps
-      group: Poly
     - description: 'Poly Cloud is a free, secure cloud storage based off lolisafe.'
       link: 'https://polycloud.lethdev2019.repl.co'
       name: Poly Cloud
-      group: Poly
+    - name: Woogle
+      group: Adcharity
+      description: Search engine
+      link: 'https://searchengine--adcharity.repl.co'
   dateFormat: 'January 2, 2006 at 3:04 PM'
   disqusShortname: https-monitorpoly-netlify-com
   timezoneString: ' UTC'
