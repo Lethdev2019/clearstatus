@@ -4,7 +4,7 @@ title: Poly Cloud unable to be used.
 date: 2020-02-25T08:27:33.664Z
 status: in_progress
 pinned: ''
-current_severity: monitoring
+current_severity: ok
 max_severity: down
 duration: ''
 resolved_on: 2020-02-25T08:27:33.687Z
